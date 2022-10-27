@@ -1,0 +1,1 @@
+node dist/index.js -pk ${DEPLOY_ACCOUNT_PRIVATE_KEY} --json-rpc ${DEPLOY_TEST_URL} -w9 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 -ncl "ETH" -o 0x7a226Ce301865Da7E6D55F1C0d09d7e66009C446
